@@ -1,0 +1,26 @@
+body {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position: right;
+}
+img {
+  height:50%;
+  width: 30%;
+}
+.ligne {
+  text-decoration :underline;
+}
+li {
+text-align: justify;
+margin : 1em;
+}
+#two
+{
+  border: 2px solid black;
+	border-radius: 5px;
+  height: auto;
+  width: auto;
+  background-color: white;
+  position: relative;
+}
