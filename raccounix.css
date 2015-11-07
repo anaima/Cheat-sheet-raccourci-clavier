@@ -29,7 +29,7 @@ code {
   background-color: white;
   position: relative;
 }
-@media screen and (min-width:320px)
+@media screen and (min-width:320px) /*pour les mobiles-->*/
 
 {
 #two
